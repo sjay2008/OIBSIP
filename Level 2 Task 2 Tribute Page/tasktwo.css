@@ -1,0 +1,17 @@
+body {
+  font-family: sans-serif;
+}
+
+.wrapper{
+  margin: 0 auto;
+  width: 25px;
+}
+
+#messi-photo {
+  width: 550px;
+}
+
+#bio {
+  line-height: 1.5em;
+  width: 550px;
+}
